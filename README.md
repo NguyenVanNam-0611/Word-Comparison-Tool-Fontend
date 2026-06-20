@@ -64,7 +64,7 @@ Các nhiệm vụ chính gồm:
 * ASP.NET Core Web API
 * .NET
 * Entity Framework Core
-* SQLite
+* Microsoft SQL
 * JWT Authentication
 * HttpClient
 * REST API
